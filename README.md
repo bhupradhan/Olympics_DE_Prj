@@ -15,6 +15,7 @@ Create a data pipeline by leveraging Azure Synapse Analytics, Azure Storage, and
 - Azure blob storage
 
 ![image.png]([Screenshot (531)-56c82cc9-fd41-4853-9dac-49da95c1c21e.png))
+<img src="[Screenshot (531)-56c82cc9-fd41-4853-9dac-49da95c1c21e.png](https://github.com/bhupradhan/Olympics_DE_Prj/blob/main/Screenshot%20(531)-56c82cc9-fd41-4853-9dac-49da95c1c21e.png?raw=true)">
 
 ### System Requirements
 - Windows 8.1 / Windows Server 2012 R2, or later
