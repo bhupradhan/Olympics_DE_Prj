@@ -216,7 +216,7 @@ Afghanistan is performing in 4 kind of discipline
 - Taekwondo 1 
 - Swimming 1 
 
-![Screenshot (537).png](https://github.com/bhupradhan/Olympics_DE_Prj/blob/main/Screenshot%20(537)-81b4409e-907f-4310-b7ba-6a8527d4d1d7.png?raw=true
+![Screenshot (537).png](https://github.com/bhupradhan/Olympics_DE_Prj/blob/main/Screenshot%20(537)-81b4409e-907f-4310-b7ba-6a8527d4d1d7.png?raw=true)
 
 ## Insights
 
