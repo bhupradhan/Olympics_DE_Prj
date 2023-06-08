@@ -14,7 +14,7 @@ Create a data pipeline by leveraging Azure Synapse Analytics, Azure Storage, and
 - Power BI Desktop
 - Azure blob storage
 
-![image.png](Olympics_DE_Prj/image-32ff418f-a136-428d-8e8a-c9b4ea44e7da.png)
+![image.png]([Olympics_DE_Prj/image-32ff418f-a136-428d-8e8a-c9b4ea44e7da.png](https://github.com/bhupradhan/Olympics_DE_Prj/blob/main/Screenshot%20(531)-56c82cc9-fd41-4853-9dac-49da95c1c21e.png?raw=true))
 
 ### System Requirements
 - Windows 8.1 / Windows Server 2012 R2, or later
