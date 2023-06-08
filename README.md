@@ -14,7 +14,7 @@ Create a data pipeline by leveraging Azure Synapse Analytics, Azure Storage, and
 - Power BI Desktop
 - Azure blob storage
 
-![image.png](/.attachments/image-32ff418f-a136-428d-8e8a-c9b4ea44e7da.png)
+![image.png](Olympics_DE_Prj/image-32ff418f-a136-428d-8e8a-c9b4ea44e7da.png)
 
 ### System Requirements
 - Windows 8.1 / Windows Server 2012 R2, or later
@@ -89,13 +89,13 @@ Upload datasets
 - Medals.csv
 
 
-![Screenshot (532).png](Screenshot%20(532)-c6373faf-1aae-4315-953b-cce11d6eb5be.png)
+![Screenshot (532).png](Olympics_DE_Prj/Screenshot%20(532)-c6373faf-1aae-4315-953b-cce11d6eb5be.png)
 
 
 
 # Architecture 
 
-![image.png](image-71d20157-04aa-44c4-9447-c6505fb9858f.png)
+![image.png](Olympics_DE_Prj/image-71d20157-04aa-44c4-9447-c6505fb9858f.png)
 
 
 # Azure Synapse Analytics:
@@ -133,7 +133,7 @@ Create and setup a Synapse workspace
 - select dedicated sql pool
 
 
-![Screenshot (534).png](Screenshot%20(534)-b1fce0ec-a0f8-4d5b-a932-03e69a3e0128.png)
+![Screenshot (534).png](Olympics_DE_Prj/Screenshot%20(534)-b1fce0ec-a0f8-4d5b-a932-03e69a3e0128.png)
 
 # Analyze using a dedicated SQL pool
 
@@ -143,9 +143,9 @@ Create and setup a Synapse workspace
 - Select Additional Settings, under Use existing data, choose Sample so that AdventureWorksDW will be created as the sample database.
 - Now that you've completed the Basics tab of the Azure Synapse Analytics form, select Review + Create and then Create to create the SQL pool. Provisioning takes a few minutes.
 
-![Screenshot (531).png](Screenshot%20(531)-56c82cc9-fd41-4853-9dac-49da95c1c21e.png)
+![Screenshot (531).png](Olympics_DE_Prj/Screenshot%20(531)-56c82cc9-fd41-4853-9dac-49da95c1c21e.png)
 
-![Screenshot (533).png](Screenshot%20(533)-39489863-382c-4fd7-8788-672a9587e75b.png)
+![Screenshot (533).png](Olympics_DE_Prj/Screenshot%20(533)-39489863-382c-4fd7-8788-672a9587e75b.png)
 
 # Visualize data with Power BI
 
@@ -159,7 +159,7 @@ Linking a Power BI workspace to a Synapse workspace
 - Enter a name for the linked service and select a workspace from the dropdown list.
 - Click Create.
 
-![Screenshot (535).png](Screenshot%20(535)-3d3a2235-1082-4471-ab4a-c5edd7c553e2.png)
+![Screenshot (535).png](Olympics_DE_Prj/Screenshot%20(535)-3d3a2235-1082-4471-ab4a-c5edd7c553e2.png)
 
 
 # PowerBI visualisation
@@ -193,13 +193,13 @@ Once workspaces are linked, the browse your Power BI datasets, edit/create new P
 -  New reports can be created clicking + at the top of the Develop tab.
 -  Existing reports can be edited by clicking on the report name. Any saved changes will be written back to the Power BI workspace 
 
-![Screenshot (539).png](Screenshot%20(539)-ffa06f17-ac3d-490e-ad43-3e735ad0dc67.png)
+![Screenshot (539).png](Olympics_DE_Prj/Screenshot%20(539)-ffa06f17-ac3d-490e-ad43-3e735ad0dc67.png)
 
 ## Insights
 
 - Sum of medals by country
 
-![Screenshot (538).png](Screenshot%20(538)-56bbf388-374b-4a78-ab9c-986de3859082.png)
+![Screenshot (538).png](Olympics_DE_Prj/Screenshot%20(538)-56bbf388-374b-4a78-ab9c-986de3859082.png)
 
 ## Insights
 
@@ -214,7 +214,7 @@ Afghanistan is performing in 4 kind of discipline
 - Taekwondo 1 
 - Swimming 1 
 
-![Screenshot (537).png](Screenshot%20(537)-81b4409e-907f-4310-b7ba-6a8527d4d1d7.png)
+![Screenshot (537).png](Olympics_DE_Prj/Screenshot%20(537)-81b4409e-907f-4310-b7ba-6a8527d4d1d7.png)
 
 ## Insights
 
